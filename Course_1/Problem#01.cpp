@@ -7,4 +7,5 @@ void your_name(string name)
 int main()
 {
     your_name("ayman chaali");
+    return 0;
 }
