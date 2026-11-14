@@ -30,4 +30,5 @@ void print_result(stinfo info)
 int main()
 {
     print_result(asktheuser());
+    return 0;
 }
