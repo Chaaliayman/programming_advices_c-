@@ -37,4 +37,5 @@ void PrintMultiplicationTable()
 int main()
 {
     PrintMultiplicationTable();
+    return 0;
 }
