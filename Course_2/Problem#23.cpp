@@ -33,4 +33,5 @@ int main()
     cout << "\nArray Elements: ";
 
     PrintArray(arr,lenght);
+    return 0;
 }
