@@ -54,5 +54,5 @@ int main()
     printofarray2(Number2,len);
     cout << "\nSum of array1 and array2 elements:\n";
     printofarray2(Number3,len);
-
+    return 0;
 }
