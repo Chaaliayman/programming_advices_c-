@@ -46,4 +46,5 @@ int main()
     PrintArray(Number,arrLength);
 
     cout << "\nMax number: " << maxofaray(Number, arrLength);
+    return 0;
 }
