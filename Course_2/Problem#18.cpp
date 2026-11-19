@@ -33,4 +33,5 @@ void printstring(string test)
 int main()
 {
     printstring(ReadText());   
+    return 0;
 }
