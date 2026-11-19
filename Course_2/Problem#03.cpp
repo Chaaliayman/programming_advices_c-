@@ -33,5 +33,5 @@ void PrintResults(int Number)
 }
 int main(){
     PrintResults(ReadPositiveNumber("Please enter a positive number?"));
-
+    return 0;
 }
