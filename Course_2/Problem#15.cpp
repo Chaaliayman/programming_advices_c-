@@ -24,4 +24,5 @@ int main()
 {
     int number = ReadPositiveNumber("Please enter a positive number?");
     PrintLetterPattern(number);
+    return 0;
 }
