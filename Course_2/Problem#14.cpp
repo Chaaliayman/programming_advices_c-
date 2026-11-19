@@ -23,4 +23,5 @@ void PrintInvertedLetterPattern(int Number)
 int main()
 {
     PrintInvertedLetterPattern(ReadPositiveNumber("Please enter a positive number?"));
+    return 0;
 }
