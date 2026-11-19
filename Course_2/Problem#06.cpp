@@ -24,4 +24,5 @@ int main()
 {
     cout << "\nSum Of Digits = " 
     << sumofdigit(ReadPositiveNumber("Please enter a positive number?")) << "\n";
+    return 0;
 }
