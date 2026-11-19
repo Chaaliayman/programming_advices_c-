@@ -44,9 +44,8 @@ int main()
     cout << "\nArray elements: ";
     printarray(Number,arrlength);
     cout<<endl;
-<<<<<<< HEAD
    cout<<"minofarray  "<<minofarray(Number,arrlength);   
-=======
+
     cout<<"minofarray  "<<minofarray(Number,arrlength);   
->>>>>>> temp-fix
+    return 0;
 }
