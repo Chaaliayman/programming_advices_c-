@@ -40,5 +40,6 @@ void PrintPalindromeNumberandNotPalindromeNumber(int number)
 int main()
 {
     int number = ReadPositiveNumber("Please enter a positive number");
-    PrintPalindromeNumberandNotPalindromeNumber(number);  
+    PrintPalindromeNumberandNotPalindromeNumber(number);
+    return 0;
 }
