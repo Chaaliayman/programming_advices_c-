@@ -3,9 +3,7 @@
 #include <cstdlib>
 using namespace std;
 int ReadPositiveNumber(string Message)
-<<<<<<< HEAD
-=======
-{
+ {
     int Number;
     do{
         cout<<Message;
@@ -14,8 +12,7 @@ int ReadPositiveNumber(string Message)
     return Number;
 }
 char randNumber(char From , char To)
->>>>>>> temp-fix
-{
+ {
     int Number;
     do{
         cout<<Message;
@@ -54,4 +51,5 @@ int main()
 {
     int number = ReadPositiveNumber("Pleaes enter how many keys to generate? \n ");
     latterkey(number);
+        return 0;
 }
