@@ -19,7 +19,8 @@ void GuessPassword()
                 if(current == "AAF")
                 {
                     cout << "\nPassword is " << current << "\n";
-                    cout << "Found after " << Counter << " Trial(s)\n";                    return;    
+                    cout << "Found after " << Counter << " Trial(s)\n";          
+                    return;    
                 }
             }
         }
