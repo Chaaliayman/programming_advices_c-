@@ -47,7 +47,7 @@ int main()
     FillArrayWithRandomNumbers(Number,len);
     cout<<"Array 1 elements \n";
     printofarray(Number,len);
-     CopyArrayInReverseOrder(Number,Number2 ,len);
+    CopyArrayInReverseOrder(Number,Number2 ,len);
 
     cout << "\nArray 2 elements after copying array 1 in reversed order:\n";
     printofarray(Number2, len); 
