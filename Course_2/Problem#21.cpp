@@ -3,6 +3,18 @@
 #include <cstdlib>
 using namespace std;
 int ReadPositiveNumber(string Message)
+<<<<<<< HEAD
+=======
+{
+    int Number;
+    do{
+        cout<<Message;
+        cin>>Number;
+    }while(Number < 0);
+    return Number;
+}
+char randNumber(char From , char To)
+>>>>>>> temp-fix
 {
     int Number;
     do{
