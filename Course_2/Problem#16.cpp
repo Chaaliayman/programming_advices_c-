@@ -18,4 +18,5 @@ void PrintAllFromAAAtoZZZ()
 int main()
 {
     PrintAllFromAAAtoZZZ();
+    return 0;
 }
