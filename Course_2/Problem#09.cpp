@@ -36,4 +36,5 @@ int main()
 {
     int number = ReadNumber();
     PrintAllDigitsFrequencey(number);
+    return 0;
 }
