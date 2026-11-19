@@ -33,4 +33,5 @@ void PrintNumberType(int num)
 int main()
 {
     PrintNumberType(read_number());
+    return 0;
 }
