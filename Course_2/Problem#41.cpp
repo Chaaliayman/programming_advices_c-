@@ -46,4 +46,5 @@ int main()
     else{
            cout << "\nNO array is NOT Palindrome\n";
     }
+    return 0;
 }
