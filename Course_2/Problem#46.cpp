@@ -19,4 +19,5 @@ int main()
     float number ;
     cout << "Number : " << Myabs(readnumber()) << "\n";
    cout<<"C++ ABS RESULT : "<<abs(readnumber());
+    return 0;
 }
