@@ -50,4 +50,5 @@ int main()
     printofarray(arr2, arr2Length);
     cout << "\nArray 2 elements after copy:\n";
     printofarray(arr2, arr2Length);
+  return 0;
 }

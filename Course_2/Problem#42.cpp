@@ -47,5 +47,6 @@ int main()
     printofarray(arr,Length);
     cout<<"\nOdd Numbers count is : ";
     cout<< Odd_Numbers_count(arr,Length);
+    return 0;
     
 }

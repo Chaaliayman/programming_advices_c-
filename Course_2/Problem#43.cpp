@@ -47,5 +47,5 @@ int main()
     printofarray(arr,Length);
     cout<<"\nEven Numbers count is : ";
     cout<< Even_Numbers_count(arr,Length);
-    
+    return 0;
 }
